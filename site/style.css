@@ -1,0 +1,87 @@
+*{margin: 0;
+       padding: 0;}
+
+
+       .cabecalho{background-color: aqua;
+    color: rgb(0, 0, 0);
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;}
+
+image{logotipoalura}
+
+.cabecalho-imagem{width: 10%;}
+
+.cabecalho-lista-item{display: inline-block;margin: 50px 30px;font-size: 24px;}
+
+;.escola{background-image: linear-gradient(#383d63, #6869a8);
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;}
+
+*{padding: 0;
+    margin: 0 ;}
+   
+  .cabecalho{background-color: rgb(75, 75, 163);
+             color: white;
+             display: flex;
+             justify-content: space-around;
+             align-items: center;
+             padding: 24px 0;}
+   
+  .cabecalho-imagem{width: 10%;}
+   
+  .cabecalho-lista-item{display: inline-block;
+                        margin: 30px 70px;
+                        font-size: 30px;}
+   
+   
+   
+   
+  
+   
+  .escola{background-image: linear-gradient( #222e72, #6869a8);
+          color: white;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          padding: 24px 0;}  
+    
+   
+   
+      
+  .escola-imagem{width: 15%;
+                  padding: 24px 24px;}     
+   
+  .escola-texto{padding: 24px 24px; }
+   
+  .escola-texto-um{font-size: 24px;
+                     padding: 24px 24px;}
+   
+  .escola-texto-dois{font-size: 24px;
+                      padding: 24px 24px;}
+   
+  .estudante-imagem{width: 40%;}
+   
+  .estudante-icone{width: 7%;}
+   
+  .estudante-div{text-align: center;}
+   
+  .estudante-titulo{text-align: center;
+                     font-size: 30px;
+                    padding: 24px 0;}
+   
+  .estudante{background-color: rgb(91, 32, 69);
+              color: white;
+            shape-image-threshold: ;}
+              
+   
+  .estudante-todos{display: grid;
+                   grid-template-columns: 25% 25% 25% 25%;}
+
+                   .rodape{text-align: center;
+                background-color: rgb(0, 0, 0);
+            padding: 16px 0;}
